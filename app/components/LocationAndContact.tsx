@@ -61,6 +61,7 @@ export default function LocationAndContact() {
               <p className="text-base sm:text-lg">P.º 119 82, B7165 Villa Gesell, Provincia de Buenos Aires</p>
               <h3 className="text-xl font-semibold mb-2">Teléfono</h3>
               <p className="text-base sm:text-lg">02255462055</p>
+              <p className="text-base sm:text-lg">549 1161726055</p>
             </div>
           </div>
           <div>
