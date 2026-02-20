@@ -19,7 +19,7 @@ export default function Home() {
       <ClientReviews />
       <Footer />
       <WhatsAppButton />
-      
+      <PromoModal />
     </main>
   )
 }
